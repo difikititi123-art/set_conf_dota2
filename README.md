@@ -96,3 +96,5 @@ cl_cq_min_queue 0 (чем лучше инет тем меньше значени
 
 параметры запуска используеться минифу он есть в репозиторе https://github.com/difikititi123-art/Minify
 -exe autoexec.cfg +fps_max 0 -novid -high -prewarm -map dota -console -el_clock_recmargin_enable 0 -language russian
+
+сылка с устоновка гайд https://www.youtube.com/watch?v=qGtLYVhkLEQ&t=4s это с настройками 
